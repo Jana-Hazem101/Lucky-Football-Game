@@ -5,8 +5,12 @@
   <p>A fun Scratch game built with logic and a bit of luck 🎲</p>
 
 <a href="https://scratch.mit.edu/projects/1282427812" target="_blank">
-  <img src="https://img.shields.io/badge/Play%20on%20Scratch-008000?style=for-the-badge&logo=scratch&logoColor=white" alt="Play Game">
+  <img src="https://img.shields.io/badge/Play%20on%20Scratch-008264?style=for-the-badge&logo=scratch&logoColor=white" alt="Play Game">
 </a>
+
+<div align="center">
+  <img src="preview.png" alt="Lucky Football Gameplay" width="300" style="border-radius: 10px;">
+</div>
 
   <hr width="50%">
 
